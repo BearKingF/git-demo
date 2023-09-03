@@ -12,4 +12,4 @@ hello bearking.hello git.
 hello bearking.hello git.
 hello bearking.hello git.
 hello bearking.hello git.
-hello bearking.hello git.
+hello bearking.hello git.hot-fix test
